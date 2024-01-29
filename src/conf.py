@@ -10,4 +10,8 @@ extensions = [
     "myst_parser",
 ]
 
+html_copy_source = False
 html_theme = "furo"
+html_title = "Python package index services"
+html_sidebars = {"**": []}
+html_use_index = False
