@@ -3,6 +3,10 @@
 These solutions are provided by organisations which are not affiliated with Python
 packaging, and are generally not open-source nor free.
 
+Want to add a service? [Make a request.](
+  https://github.com/EpicWink/python-index-services/issues/new
+)
+
 ## Gemfury
 
 [Product page](https://fury.co/l/pypi-server/)
